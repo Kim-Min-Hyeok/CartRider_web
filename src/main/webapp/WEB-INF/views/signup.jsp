@@ -6,8 +6,11 @@
     <meta charset="UTF-8">
     <title>회원가입</title>
 </head>
-<body>
-
+<style>
+    h1, table, button{color: white}
+    button{background-color: black}
+</style>
+<body style="background-color: #262626">
 <h1>회원가입</h1>
 <form action="signupok" method="post">
     <table>
